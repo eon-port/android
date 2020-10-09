@@ -32,7 +32,7 @@
   <project groups="pdk" name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" revision="368bd2abab25c637a657d1fe4cef6b2222b29e82" upstream="refs/heads/cm-13.0"/>
 
   <!-- kernel -->
-  <project clone-depth="1" name="commaai/android_kernel_xiaomi_msm8916" path="kernel/xiaomi/msm8916" remote="private" revision="cm-13.0" upstream="refs/heads/cm-13.0"/>
+  <project clone-depth="1" name="eon-port/android_kernel_xiaomi_msm8916" path="kernel/xiaomi/msm8916" remote="private" revision="cm-13.0" upstream="refs/heads/cm-13.0"/>
 
   <!-- hardware -->
   <project groups="pdk" name="CyanogenMod/android_hardware_libhardware" path="hardware/libhardware" revision="7659cdd34d33498b3e172730a888f8ea793e1ef3" upstream="refs/heads/cm-13.0"/>
