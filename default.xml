@@ -21,7 +21,7 @@
   <project name="CyanogenMod/android_device_qcom_sepolicy" path="device/qcom/sepolicy" revision="d805fbcf82e932c519b9a0a79a5995b3f84218fe" upstream="refs/heads/cm-13.0"/>
 
   <!-- vendor -->
-  <project name="eon-port/android_vendor_xiaomi" path="vendor/xiaomi" remote="private" revision="cm-13.0" upstream="refs/heads/cm-13.0"/>
+  <project name="eon-port/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="private" revision="cm-13.0" upstream="refs/heads/cm-13.0"/>
   <project name="commaai/android_vendor_cm" path="vendor/cm" remote="private" revision="3f6eeeb553940e234183fb94e6f3d81424fa87de" upstream="master"/>
   <project name="CyanogenMod/cm_platform_sdk" path="vendor/cmsdk" revision="d755121d2c4c833d432aaf09810bfcad8e65e9f6" upstream="refs/heads/cm-13.0"/>
   <project name="CyanogenMod/android_vendor_qcom_opensource_dpm" path="vendor/qcom/opensource/dpm" revision="070a9ec1127b42da4a4c58bd865ba64b8730d9e3" upstream="refs/heads/cm-13.0"/>
